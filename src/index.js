@@ -7,7 +7,7 @@ import Pageh from './Pageh';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <Pageh />,
+  <App />,
   document.getElementById('root')
 );
 
